@@ -1,0 +1,24 @@
+Park your broom and sit for a spell, {}!
+
+Here are your Plum+ numbers for last week:
+
+Sold: {}
+Transactions: {}
+Percentage: {}%
+Target: {}%
+Store Weekly Percentage: {}%
+Store Quarterly Percentage: {}%
+
+Here's a trick from Clarissa to try out next week:
+    Stacks with Promos!
+    This week we had a taste of what is to come for our holiday promos
+    and how they will work by catering to our Plum+ Customers. Majority of
+    signage will have the Plum+ discount amount on display, which makes it
+    extra easy for you to work that in to your pitch when customers ask.
+    A helpful tip: Plum promo = Plum+ promo-10%
+
+Worried about not having any time on cash? E- Mail us and we can help.
+
+Danielle, Cass, Clarissa
+Plum Plus Team
+
