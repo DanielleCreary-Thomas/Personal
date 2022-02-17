@@ -9,9 +9,11 @@ PASSONE = ''
 BEYOND = ''
 BASIC = ''
 BASICNOTRANS = ''
-STOREWPERC = "0.9"
-STOREQPERC = "1.0"
+STOREWPERC = "1.8"
+STOREQPERC = "1.2"
 TARGET = "2.5"
+##WEEK: 45
+##Q4: WEEK
 
 ##Swipe rate 22.4%W 21.4%Q
 
@@ -80,10 +82,10 @@ def template_fill_basic():
 
 if __name__ == "__main__":
     name_file(NAMEFILE)
-    data_dict("CSVs/9FEB22.csv")
+    data_dict("CSVs/16FEB22.csv")
     name_add()
-    BASICNOTRANS = template_read("Templates/BasicMissed2022.txt")
-    BASIC = template_read("Templates/BasicTemplate2022.txt")
+    BASICNOTRANS = template_read("Templates/BasicMissed16FEB22.txt")
+    BASIC = template_read("Templates/BasicTemplate16FEB22.txt")
     template_fill_basic()
 
     # NOTRANS = template_read("noTransOCT.txt")
